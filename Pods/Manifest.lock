@@ -1,0 +1,32 @@
+PODS:
+  - BBPOS (1.0.3)
+  - GlobalPaymentsApi (1.0.3)
+  - Heartland-iOS-SDK (2.0.0):
+    - VitalSDK (= 1.2.2)
+    - XMLDictionary
+  - VitalSDK (1.2.2):
+    - BBPOS
+    - GlobalPaymentsApi
+  - XMLDictionary (1.4.1)
+
+DEPENDENCIES:
+  - Heartland-iOS-SDK
+
+SPEC REPOS:
+  trunk:
+    - BBPOS
+    - GlobalPaymentsApi
+    - Heartland-iOS-SDK
+    - VitalSDK
+    - XMLDictionary
+
+SPEC CHECKSUMS:
+  BBPOS: 5feb3e6af48a02d0accc695f1639c0f77f1ea366
+  GlobalPaymentsApi: 345cd6bc83b64530cb35e44a3a82d6eb74141750
+  Heartland-iOS-SDK: 661d0b946523ab7fe1c9b4cdcae294679a61dfde
+  VitalSDK: c429388c26e5ffdd499791227c8c42cc65e6fb61
+  XMLDictionary: fa07b6ff422b3a91d47a5de9bc82e3fc04fbd167
+
+PODFILE CHECKSUM: d1f23e29c46e6411e35c116f2bc92b5f7529d393
+
+COCOAPODS: 1.11.2

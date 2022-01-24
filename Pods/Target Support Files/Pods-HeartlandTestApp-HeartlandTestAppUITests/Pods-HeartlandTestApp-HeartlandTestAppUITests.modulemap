@@ -1,0 +1,6 @@
+framework module Pods_HeartlandTestApp_HeartlandTestAppUITests {
+  umbrella header "Pods-HeartlandTestApp-HeartlandTestAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
